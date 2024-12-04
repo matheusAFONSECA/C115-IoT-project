@@ -30,9 +30,9 @@
 #define BLYNK_PRINT Serial
 
 /* Fill in information from Blynk Device Info here */
-#define BLYNK_TEMPLATE_ID           "TMPL2-dD6qy91"
-#define BLYNK_TEMPLATE_NAME         "ESP8266"
-#define BLYNK_AUTH_TOKEN            "cE3bGMZ5zhCoJy26siIg_hW6Ri4OfQyB"
+#define BLYNK_TEMPLATE_ID           "TMPL2rG6lq4ur"
+#define BLYNK_TEMPLATE_NAME         "ESP8266 C115"
+#define BLYNK_AUTH_TOKEN            "XLMq0AYLwToLkgm3xpf5euOhIHjbHBU1"
 
 #include <dummy.h>
 #include <ESP8266WiFi.h>
